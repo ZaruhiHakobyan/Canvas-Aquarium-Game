@@ -1,0 +1,26 @@
+#canvas-wrap {
+  position:relative;
+}
+
+#canvas{
+  cursor:url(http://www.rw-designer.com/cursor-view/46372.png),auto;
+}
+
+#pointsDiv{
+  position: absolute;
+  top:60px;
+  left:20px;
+  color: white;
+}
+
+#addFish{
+  position: absolute;
+  top:20px;
+  left:15px;
+  height: 35px;
+  width: 80px;
+  color: yellow;
+  background-color: inherit;
+  border: 0.3px solid white;
+  border-radius: 5px;
+}
